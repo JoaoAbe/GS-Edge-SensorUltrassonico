@@ -65,9 +65,15 @@ O sistema foi:
 
 ---
 
-## 🎥 Link para o Pitch
+## 🎥 Link para Vídeo
 
 > (Inserir link aqui)
+
+---
+
+## 🧪 Link para a Simulação
+
+> ([Link da Simulação no Tinkercad](https://www.tinkercad.com/things/741ZL0c9wCq-brilliant-bruticus-amberis/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=mUr7XQQ5s1oWvp7kGsfbxNbxMoOtmWgYHiVgM866nhY))
 
 ---
 
@@ -126,8 +132,8 @@ O sistema foi:
 ## 💻 Código Arduino
 
 ```cpp
-#include <Wire.h>
-#include <Adafruit_LiquidCrystal.h>
+#include <Wire.h> //Bibliotecas para o LCD
+#include <Adafruit_LiquidCrystal.h> //Bibliotecas para o LCD
 
 const int ledVerde = 5;
 const int ledVermelho = 3;
@@ -174,8 +180,8 @@ void loop()
   
   lcd.clear(); // limpa o LCD
   lcd.setCursor(0, 0);
-  lcd.print("Dist: ");
-  lcd.print(distance);
+  lcd.print("Dist: "); 
+  lcd.print(distance); //Printa a distancia que o sensor capita
   lcd.print(" cm");
   
   if (distance <= 15) {

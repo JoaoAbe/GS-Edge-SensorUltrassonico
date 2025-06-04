@@ -67,7 +67,7 @@ O sistema foi:
 
 ## 🎥 Link para Vídeo
 
-> (Inserir link aqui)
+> ([Link do vídeo no youtube](https://youtu.be/bQoJ8NPJZyc?si=Z4Nf33kLZ8Bi0wkF))
 
 ---
 

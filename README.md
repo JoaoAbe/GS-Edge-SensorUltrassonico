@@ -73,7 +73,7 @@ O sistema foi:
 
 ## 🧪 Link para a Simulação
 
-> ([Link para a simulação](https://www.tinkercad.com/things/741ZL0c9wCq-brilliant-bruticus-amberis))
+> ([Link para a simulação](https://www.tinkercad.com/things/ifaF2c9QLoC-sensor-de-profundidade-alerta/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=P3jMJxFlV9pO-3SKpiqX_1JeiHSXHl28CcfAyv95snM))
 
 ---
 

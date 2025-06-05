@@ -73,7 +73,7 @@ O sistema foi:
 
 ## 🧪 Link para a Simulação
 
-> ([Link da Simulação no Tinkercad](https://www.tinkercad.com/things/741ZL0c9wCq-brilliant-bruticus-amberis/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=mUr7XQQ5s1oWvp7kGsfbxNbxMoOtmWgYHiVgM866nhY))
+> ([Link para a simulação](https://www.tinkercad.com/things/741ZL0c9wCq-brilliant-bruticus-amberis))
 
 ---
 
